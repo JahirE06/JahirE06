@@ -8,7 +8,7 @@ Deutsch, English and Spanish Speaker.
 
 
 ## About me 👨‍💻
-I'm a full stack developer, currently studying an Engineering degree in Sistems Administration and the german language, I like to work on Frontend and trying to practice backend of the projects, i like the database management also as the UX, UI and UIX, I enjoy practicing and learning.
+I'm a full stack developer, currently studying an Engineering degree in Systems Administration and the german language, I like to work on Frontend and trying to practice backend of the projects, i like the database management also as the UX, UI and UIX, I enjoy practicing and learning.
 ## 💻 Languages & Frameworks Experience
 
 <div align=center>
