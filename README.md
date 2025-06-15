@@ -14,15 +14,24 @@ I'm a full stack developer, currently studying an Engineering degree in Systems 
 ## 💻 Languages & Frameworks Experience
 
 <div align=center>
-   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="csharp"/>
-   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="cxx"/>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript"/>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java"/>
    <img width="48" height="48" src="https://img.icons8.com/ios-filled/384/498fe1/typescript.png" alt="typescript"/>
-   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="python--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="Tailwind-css"/>
    <br>
    <!-- <img width="48" height="48" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" alt=".net"/> -->
-   <img width="42" height="42" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="monogame"/>
-  <img width="42" height="42" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="monogame"/>
+   <img width="42" height="42" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="FireBase"/>
+  <img width="42" height="42" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL"/>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="vue-js"/>
+</div>
+
+## 💻 Actually still learning...
+<div align=center>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript"/>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="Tailwind-css"/>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="vue-js"/>
+   <br>
+
 </div>
 
 
