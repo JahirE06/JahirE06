@@ -27,9 +27,16 @@ I'm a full stack developer, currently studying an Engineering degree in Systems 
 
 
 ## Streak
+
+<div align=center>
+   
 ![JahirE06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahirE06&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 ![JahirE06's Stats](https://github-readme-stats.vercel.app/api?username=JahirE06&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 ![JahirE06's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JahirE06&theme=react&hide_border=false)
+
+</div>
+
+
 
