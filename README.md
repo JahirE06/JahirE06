@@ -29,7 +29,8 @@ I'm a full stack developer, currently studying an Engineering degree in Systems 
 <div align=center>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript"/>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="Tailwind-css"/>
-   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="vue-js"/>
+   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=3kayGKj30Ujn&format=png&color=000000" alt="NativeScript"/>
+ 
    <br>
 
 </div>
