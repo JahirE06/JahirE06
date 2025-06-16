@@ -34,7 +34,7 @@ I'm a full stack developer, currently studying an Engineering degree in Systems 
 
 </div>
 
-##💡Interested in
+## 💡Interested in
 <div align = center>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="NativeScript"/>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="NativeScript"/>
@@ -42,7 +42,7 @@ I'm a full stack developer, currently studying an Engineering degree in Systems 
 
 </div>
 
-## Streak
+## 📈 Streak
 
 <div align=center>
    
