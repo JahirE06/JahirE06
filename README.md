@@ -3,7 +3,7 @@
 A Software Engineer Administrator Student in 
 UANL | MTY N.L | México.
 
-Deutsch Learner 
+Engineer Student | Deutsch Learner 
 
 English and Spanish Speaker.
 
